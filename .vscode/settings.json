@@ -1,0 +1,39 @@
+{
+    // "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.fontAliasing": "auto",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Operator Mono,Menlo, Monaco, 'Courier New', monospace",
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 25,
+    "editor.fontWeight": "400",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorWidth": 4,
+    "editor.codeLens": false,
+    "editor.snippetSuggestions": "top",
+    "editor.tabCompletion": "on",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.openEditors.visible": 1,
+    "terminal.integrated.macOptionIsMeta": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    // "diffEditor.ignoreTrimWhitespace": false,
+    // //newFile extension
+    // "advancedNewFile.exclude": {
+    //     "node_modules": true,
+    //     "node_modules_electron": true,
+    //     "dev": true,
+    //     "dist": true
+    // },
+    // "advancedNewFile.showInformationMessages": true,
+    // "advancedNewFile.convenienceOptions": [
+    //     "last",
+    //     "current",
+    //     "root"
+    // ]
+}
